@@ -1,0 +1,29 @@
+id,flightCode,company,source,destination,arrival,departure,ecoCap,busCap,execCap,ecoPrice,busPrice,execPrice,duration
+,,,,,,,,,,,,,
+,GF-328,Goibibo,New Delhi,Mumbai,23:45,20:05,150,50,15,7000,15157,35471,3:40:00
+,GC-467,Goibibo,New Delhi,Mumbai,23:52,20:54,175,50,25,7320,13696,28715,2:58:00
+,VS-009,Vistara,New Delhi,Mumbai,01:52,21:01,175,50,25,6111,15931,28661,4:51:00
+,AI-098,Air India,New Delhi,Mumbai,00:21,20:39,175,50,25,6993,13257,30466,3:42:00
+,AI-119,Air India,New Delhi,Mumbai,01:06,20:15,150,50,15,6038,16795,32554,4:51:00
+,AI-007,Air India,New Delhi,Mumbai,01:50,20:27,150,50,15,7523,17099,26380,5:23:00
+,VS-675,Vistara,Bangalore,Hyderabad,02:36,20:27,150,50,15,6744,13526,33781,6:09:00
+,VS-985,Vistara,Bangalore,Hyderabad,02:26,20:09,150,50,15,7792,13711,26904,6:17:00
+,AI-871,Air India,Bangalore,Hyderabad,02:07,20:11,150,50,15,7048,14416,26634,5:56:00
+,GF-414,Goibibo,Bangalore,Hyderabad,00:11,20:45,175,50,25,6750,13719,29367,3:26:00
+,GA-328,Goibibo,Bangalore,Hyderabad,00:22,20:24,150,50,15,7674,15512,30720,3:58:00
+,GD-321,Goibibo,Bangalore,Hyderabad,00:41,20:43,175,50,25,6775,16416,30287,3:58:00
+,VS-391,Vistara,Gwalior,Chennai,02:11,21:01,150,50,15,6786,14822,26468,5:10:00
+,AI-477,Air India,Gwalior,Chennai,01:25,20:58,175,50,25,7723,13598,28799,4:27:00
+,GF-4,Goibibo,Gwalior,Chennai,01:26,20:24,175,50,25,6323,12566,25585,5:02:00
+,GD-675,Goibibo,Gwalior,Chennai,01:34,20:59,175,50,25,7376,15006,28593,4:35:00
+,GA-463,Goibibo,Gwalior,Chennai,23:47,20:22,150,50,15,7156,17991,33980,3:25:00
+,VS-392,Vistara,Chandigarh,Chennai,01:19,20:35,150,50,15,7625,12807,29718,4:44:00
+,AI-479,Air India,Chandigarh,Chennai,02:32,20:40,150,50,15,6526,16580,28940,5:52:00
+,GF-962,Goibibo,Chandigarh,Chennai,01:58,20:59,150,50,15,6615,14923,25721,4:59:00
+,GD-679,Goibibo,Chandigarh,Chennai,00:41,20:10,150,50,15,7395,17162,29078,4:31:00
+,GA-466,Goibibo,Chandigarh,Chennai,01:10,20:11,175,50,25,6424,16254,28762,4:59:00
+,VS-393,Vistara,Gwalior,Panaji,02:08,20:30,150,50,15,6494,13779,28904,5:38:00
+,AI-480,Air India,Gwalior,Panaji,01:25,20:47,175,50,25,6629,17293,30473,4:38:00
+,GF-964,Goibibo,Gwalior,Panaji,02:27,20:15,150,50,15,7027,16012,26856,6:12:00
+,GD-690,Goibibo,Gwalior,Panaji,02:40,20:32,175,50,25,7835,13882,35114,6:08:00
+,GA-467,Goibibo,Gwalior,Panaji,01:51,20:38,175,50,25,7838,13245,32698,5:13:00
